@@ -1,0 +1,2 @@
+# synmyco
+For synthetic mycology.
